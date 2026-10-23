@@ -1,0 +1,7 @@
+restrobill.db
+restrobill.db.bak-*
+bills/
+kot/
+backups/
+__pycache__/
+*.pyc
